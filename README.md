@@ -2,7 +2,7 @@
 
 ### Simple app to manage your Coder contacts.
 
-![Screenshot of Coderdex Redux]()
+![Screenshot of Coderdex Redux](Coderdex_v2.png)
 
 **Tech Stack:** React, React Router, axios, Bootstrap4, JSON Placeholder & Redux
 
