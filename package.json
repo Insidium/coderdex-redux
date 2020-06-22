@@ -2,7 +2,6 @@
 	"name": "contactmanager",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://insidium.github.io/coderdex-redux",
 	"dependencies": {
 		"axios": "^0.18.1",
 		"bootstrap": "^4.5.0",
@@ -18,7 +17,6 @@
 		"uuid": "^3.3.2"
 	},
 	"scripts": {
-		"deploy": "npm run build&&gh-pages -d build",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test --env=jsdom",
